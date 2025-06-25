@@ -1,5 +1,65 @@
 **README.md**
 
+# Indicadores Educacionais - Descrição dos Dados
+
+Este conjunto de dados apresenta diferentes aspectos da atuação docente na educação básica brasileira. Abaixo, estão descritos os principais indicadores utilizados:
+## Adequação da Formação do Docente
+
+Classifica os docentes com base na compatibilidade entre sua formação e a disciplina que lecionam:
+
+    Grupo 1: Licenciatura ou bacharelado com complementação pedagógica na mesma disciplina.
+
+    Grupo 2: Bacharelado na mesma disciplina, sem licenciatura ou complementação.
+
+    Grupo 3: Licenciatura ou complementação pedagógica em área diferente da que leciona.
+
+    Grupo 4: Outra formação superior não enquadrada nas categorias anteriores.
+
+    Grupo 5: Sem curso superior completo.
+
+Abrangência: Educação Infantil, Ensino Fundamental (total, anos iniciais e finais), Ensino Médio e EJA (fundamental e médio).
+Desagregações: Ano, Unidade Geográfica, Localização, Dependência Administrativa.
+# Esforço do Docente
+
+Indicador baseado na carga de trabalho dos docentes (número de alunos, turnos, escolas e etapas atendidas):
+
+    Nível 1: Até 25 alunos, 1 turno, 1 escola, 1 etapa.
+
+    Nível 2: 25 a 150 alunos, 1 turno, 1 escola, 1 etapa.
+
+    Nível 3: 25 a 300 alunos, 1-2 turnos, 1 escola, 1 etapa.
+
+    Nível 4: 50 a 400 alunos, 2 turnos, até 2 escolas e 2 etapas.
+
+    Nível 5: Mais de 300 alunos, 3 turnos, até 3 escolas e 3 etapas.
+
+    Nível 6: Mais de 400 alunos, 3 turnos, até 3 escolas e 3 etapas.
+
+Abrangência: Ensino Fundamental (total, anos iniciais e finais) e Ensino Médio.
+Desagregações: Ano, Unidade Geográfica, Localização, Dependência Administrativa.
+# Regularidade do Corpo Docente
+
+Índice de regularidade da presença dos docentes, classificado em:
+
+    Baixa: 0 a <2
+
+    Média-Baixa: 2 a <3
+
+    Média-Alta: 3 a <4
+
+    Alta: 4 a <5
+
+Quanto mais próximo de 5, mais regular a presença do docente.
+
+Desagregações: Ano, Unidade Geográfica, Localização, Dependência Administrativa, e percentual de escolas por faixa do IRD.
+# Porcentual de Docentes com Curso Superior
+
+Indica a proporção de docentes com curso superior por etapa/modalidade de ensino.
+Exemplo: no EJA, 90,8% dos docentes têm curso superior, implicando que 9,2% não têm.
+
+Abrangência: Educação Infantil (total, creche, pré-escola), Ensino Fundamental (total, anos iniciais, anos finais), Ensino Médio, Educação Profissional, EJA e Educação Especial.
+Desagregações: Ano, Unidade Geográfica, Localização, Dependência Administrativa.
+
 ---
 
 ## 1. Visão Geral
