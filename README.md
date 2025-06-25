@@ -59,8 +59,6 @@ Durante o processo de preparação dos dados, foram realizadas as seguintes etap
 
 ## 4. Dashboard Criado
 
-O dashboard interativo foi desenvolvido em **Plotly Dash** (ou outra ferramenta especificada) e está publicado em: [link para versão online do dashboard](#).
-
 ### Principais Componentes
 
 * **Visão Geral por Região e Ano**: Seleção dinâmica que permite comparar indicadores entre regiões e anos.
