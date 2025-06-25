@@ -4,7 +4,7 @@
 
 ## 1. Visão Geral
 
-> **Importante:** recomenda-se executar o código dentro de um ambiente Jupyter Notebook para garantir a criação automática das pastas de saída (`output/metricas` e `output/correlacoes`) e dos arquivos de trabalho necessários para as análises e visualizações.
+> **Importante:** deve-se retirar o zip do arquivo extensionista.zip (que contém os arquivos) e logo após executar o código dentro de um ambiente Jupyter Notebook para garantir a criação automática das pastas de saída (`output/metricas` e `output/correlacoes`) e dos arquivos de trabalho necessários para as análises e visualizações.
 
 Este repositório contém o código e os notebooks utilizados no projeto de análise de indicadores educacionais para os anos de 2018, 2019, 2022 e 2023. O objetivo é integrar diferentes bases de dados (AFD, DSU, IRD, IED), realizar o pré-processamento, conduzir análises estatísticas (distribuições, correlações e variações) e construir um dashboard interativo para suporte à tomada de decisão.
 
